@@ -26,3 +26,6 @@ pkg
 # for binstubs, since this gem has no executables
 bin
 vendor
+
+# no bundler lockfile, this is a gem
+Gemfile.lock
